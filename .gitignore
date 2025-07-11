@@ -63,3 +63,8 @@ doc/check-or-enforce-order.py
 tests/percy/*.html
 tests/percy/pandas2/*.html
 test_path.png
+
+# Test files for WebGL antialiasing patch
+test_antialiasing.py
+test_simple_antialiasing.py
+test_webgl_plot.html
